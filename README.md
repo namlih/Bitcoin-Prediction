@@ -27,8 +27,8 @@ RMSE refers to Root Mean Square Error:
 
 |  Test Sizes | LSTM  | ARIMA | Prophet |
 | :---------: | :---: | :---: | :-----: |
-| **7 days**  |  956  |       |  2594   |
-| **15 days** |  825  |  1133 |  2891   |
-| **30 days** |  982  |       |  2235   |
+| **7 days**  |  956  |       |  0.21   |
+| **15 days** |  825  |  1133 |  0.23   |
+| **30 days** |  982  |       |  0.14   |
 | **60 days** |  769  |       |         |
 
