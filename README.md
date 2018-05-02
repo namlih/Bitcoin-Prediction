@@ -2,10 +2,8 @@
 Bitcoin Prediction with Long Short-Term Memory Neural Network architecure, Facebook's Prophet package and ARIMA model. Examples are showed with different test sizes such as 7 days, 15 days and 30 days.
 
 ## Error comparison 1 : sMAPE
-sMAPE refers to Symmetric Mean Absolute Percentage Error
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-
+sMAPE refers to Symmetric Mean Absolute Percentage Error: 
+![alt text](https://github.com/namlih/Bitcoin-Prediction/blob/master/smape.png "sMAPE")
 
 |  Test Sizes | LSTM  | ARIMA | Prophet |
 | :---------: | :---: | :---: | :-----: |
